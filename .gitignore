@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#folders
+CIFAR10
+Checkpoints_01
+
 # C extensions
 *.so
 
