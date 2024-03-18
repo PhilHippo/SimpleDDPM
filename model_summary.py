@@ -39,4 +39,4 @@ model = net_model = UNet(
     dropout=modelConfig["dropout"],
 ).to(device)
 
-summary(model, [(3, 32, 32), (1000,)])
+summary(model, [(3, 32, 32), (500,)])
