@@ -5,7 +5,10 @@ __pycache__/
 
 #folders
 CIFAR10
+Checkpoints
 Checkpoints_01
+CheckpointsCondition
+CheckpointsCondition_01
 
 # C extensions
 *.so
